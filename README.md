@@ -1,6 +1,6 @@
 # ☀️ Residential Solar Panel Decision Analysis
 
-This project investigates whether a homeowner should install residential solar panels using structured decision-making methods. It was completed as part of the SCMA-642 – Decision and Risk Analytics course at VCU.
+This project investigates whether a homeowner should install residential solar panels using structured decision-making methods. 
 
 ---
 
