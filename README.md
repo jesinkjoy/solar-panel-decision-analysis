@@ -64,15 +64,6 @@ Installing solar panels—especially with upfront payment—is financially benef
 
 ---
 
-## 👥 Team
-
-- Jesin Kandathy Joy *(Decision Tree Modeling, Sensitivity Analysis)*
-- Gauri V Nair *(Usage Forecasting, Assumptions & Model Setup)*
-- Adhyayan Amit Jain *(Financial Structuring & Scenario Development)*
-- Mariam Yakoub *(Data Cleaning, Utility Rate Estimation)*
-
----
-
 ## 📌 Note
 
 This project was developed as part of an academic course. All data is either publicly sourced or simulated for educational purposes and does not represent any real client or vendor recommendation.
